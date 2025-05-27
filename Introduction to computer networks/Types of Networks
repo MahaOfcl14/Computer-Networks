@@ -1,0 +1,55 @@
+Classification of N/w based on coverage Area :
+
+	Classified based on the Geographical area and speed.
+
+
+
+1 LAN - Local Area Network:
+
+enables communication b/w confined geographical area
+Example - college wifi, residence
+Covers small geographical area
+High speed data transfer and low cost set-up
+Example - office n/w connecting desktop and printers
+Types : 
+Wireless Lan - Wifi
+Wired Lan - Ethernet hub	
+
+
+2 MAN- Metropolitan Area Network:
+
+Enables communication b/w geographical region roughly the size of metropolitan city
+Operates by connecting different LAN's
+Faster than WAN broader than LAN
+MAN device includes switches/hub or routers/bridges
+
+
+3 WAN - Wide Area Network
+
+Covers large area
+WAN operates by connecting different type of LAN's and MAN's 
+Speed is low compared to LAN and MAN
+
+
+4 PAN - Personal Area Network
+
+Operates within a very limited area like few meters and is designed for personal use
+Pan range from 1 to 10 meters for individual use.
+Example connection of smartphone in earbuds, Hotspot 
+
+
+Interconnected Network:
+
+Linking together different types of n/w such as LAN, MAN, WAN, PAN
+This integration allows to communicate and share resources smoothly even across vast geographical distances
+It uses devices like routers, gateways that help to connect and translate data b/w different n/w's
+Merits:
+
+Scalability - easy to expand by connecting new device/network
+Improved Communication - Instant communication across networks
+
+
+Demerits:
+
+Latency - Data transfers across n/w may cause delay
+Security Risk - Interconnected so there may be risk of security breaches and attacks.
