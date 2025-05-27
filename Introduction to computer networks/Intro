@@ -1,0 +1,30 @@
+Network : 
+
+	Group of devices connected to share information
+	Can send and receive information like pdf, images, audio, video
+Example : whatsapp group
+
+The devices connected in a network can share information and resources (printers, storage or shared internet connection)
+
+How it works ?
+
+Devices like computer, phone are like the people in your whatsapp group.
+The connections like wifi and internet is how they talk to each other
+The rules are like the language, everyone can understand so the communication works properly.
+Example: hindi person, tamil person, telugu people Here English works as protocol so everyone can communicate and understands
+
+Benefits :
+
+Resource sharing : Allows multiple devices or users to access shared resource such as files, printers, or databases over n/w, optimizing resource utilization and reducing redundancy
+Load Balancing: It comes in when there is network traffic or computational tasks across multiple servers or devices to ensure efficient utilization, prevent bottle necks and enhance system performance (one server cannot manage n/w traffic so it will distribute among various servers in different locations)                 
+High Reliability: Ensures consistent and dependable operation by incorporating fault tolerance, redundancy and failover mechanisms to minimize downtime and data loss.
+Location Independence: without needing to know the physical location of the resource, promoting seamless and flexible connectivity
+
+
+Transmission mode:
+How the data is being transferred, this is when the transmission mode comes in
+3 Different Modes :
+
+Simplex : one device is allowed to share information another device can only receive the info - Example : TV
+Half Duplex : Both the device can send the data but not at the same time so both can act as receiver and transmitter at different time 't' - Example - walkie talkie
+Full Duplex :  Both the device can send the data at the same time so both can act as receiver and transmitter. - Example - Cell Phone
